@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'onlineshop',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': 'KISHObigan5176@',
         'PORT': '3306'
     }
 }
