@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'onlineshop',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'KISHObigan5176@',
+        'PASSWORD': 'Enter Your mySql password here',
         'PORT': '3306'
     }
 }
